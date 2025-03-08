@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap');
+
+.primary-bg-color{
+    background-color:#EDF4F2;
+}
+.bg-color{
+    background-color:#EDF4F2;
+}
+.customDes{
+    display: none;
+   
+}
+
+body{
+    font-family: Inknut Antiqua;
+    font-size: 18px;
+}
